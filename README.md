@@ -32,3 +32,5 @@ submit a PR online
 # not set user.name
 email = wangpenglion@foxmail.com
 
+# Alanwang2015
+edit online by Alanwang2015
