@@ -29,3 +29,6 @@ submit a PR online
 
 # not set user.name alanwang.sdu@gmail.com
 
+# not set user.name
+email = wangpenglion@foxmail.com
+
