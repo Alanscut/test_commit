@@ -25,4 +25,7 @@ commit by user:Alanscut email:wp_scut@163.com
 submit a PR online
 
 
-# not set user.name
+# not set user.name wp_scut@163.com
+
+# not set user.name alanwang.sdu@gmail.com
+
